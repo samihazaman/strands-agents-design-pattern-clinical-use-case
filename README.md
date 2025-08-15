@@ -61,8 +61,8 @@ strands-agents-builder==0.1.2
 strands-agents-tools==0.1.4
 joblib==1.5.1
 requests==2.32.4
-uv==0.7.13```
-
+uv==0.7.13
+```
 
 ---
 
