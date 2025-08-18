@@ -1,0 +1,19 @@
+{
+  "model_id": "mistral.mistral-7b-instruct-v0:2",
+  "data_source": "s3://patient-summary-bucket/patient4_summary.docx",
+  "timestamp": "2025-08-18 03:39:49",
+  "smart_goals": [
+    {
+      "goal_number": 1,
+      "description": "Maintain a daily sodium intake of no more than 2000mg for the next 30 days. Monitor daily sodium intake through food diary and limit salt usage."
+    },
+    {
+      "goal_number": 2,
+      "description": "Reduce A1C levels below 7.0 in the next 6 months. Monitor fasting blood glucose levels twice weekly and adjust insulin dosage accordingly."
+    },
+    {
+      "goal_number": 3,
+      "description": "Improve cholesterol levels in the next 3 months. Eat a heart-healthy diet, including 2 servings of fruits and 3 servings of vegetables daily. Monitor cholesterol levels every 4 weeks."
+    }
+  ]
+}

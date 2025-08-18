@@ -1,0 +1,19 @@
+{
+  "model_id": "mistral.mistral-7b-instruct-v0:2",
+  "data_source": "s3://patient-summary-bucket/patient2_summary.docx",
+  "timestamp": "2025-08-18 03:39:45",
+  "smart_goals": [
+    {
+      "goal_number": 1,
+      "description": "Maintain systolic blood pressure below 130 mmHg and diastolic blood pressure below 85 mmHg in the next 6 months. Monitor blood pressure twice a week and calculate the average of the readings for each visit."
+    },
+    {
+      "goal_number": 2,
+      "description": "Reduce daily sodium intake to less than 1500 mg in the next 3 months. Record daily sodium intake using a food diary and aim to stay below the recommended limit each day."
+    },
+    {
+      "goal_number": 3,
+      "description": "Attend regular physical therapy sessions three times a week for the next 12 weeks. Record progress and report any changes to the healthcare provider."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "model_id": "mistral.mistral-7b-instruct-v0:2",
+  "data_source": "s3://patient-summary-bucket/patient5_summary.docx",
+  "timestamp": "2025-08-18 03:39:51",
+  "smart_goals": [
+    {
+      "goal_number": 1,
+      "description": "Monitor blood pressure twice a day for the next 3 months and record the average reading. Keep the systolic blood pressure below 130 mmHg and diastolic blood pressure below 85 mmHg."
+    },
+    {
+      "goal_number": 2,
+      "description": "Take aspirin daily for the next 6 months to reduce the risk of cardiovascular events. Monitor the A1C level every 3 months to assess the effectiveness of aspirin therapy."
+    },
+    {
+      "goal_number": 3,
+      "description": "Increase water intake to at least 2 liters per day for the next 2 months. Monitor weight weekly and aim for a steady weight loss of 0.5 kg per week."
+    }
+  ]
+}
