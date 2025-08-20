@@ -1,0 +1,23 @@
+{
+  "model_id": "mistral.mistral-7b-instruct-v0:2",
+  "data_source": "s3://patient-summary-bucket/patient4_summary.docx",
+  "timestamp": "2025-08-20 01:48:44",
+  "smart_goals": [
+    {
+      "goal_number": 1,
+      "description": "Reduce daily carbohydrate intake to 45g per meal for the next 2 weeks, as documented in the food log."
+    },
+    {
+      "goal_number": 2,
+      "description": "Take prescribed Metformin medication twice a day, before breakfast and dinner, for the next month."
+    },
+    {
+      "goal_number": 3,
+      "description": "Perform a minimum of 150 minutes of moderate-intensity aerobic activity or 75 minutes of vigorous-intensity aerobic activity per week, as recorded in the activity log."
+    },
+    {
+      "goal_number": 4,
+      "description": "Monitor and log daily blood glucose levels before meals and after dinner, aiming to keep levels below 180mg/dL, for the following month."
+    }
+  ]
+}

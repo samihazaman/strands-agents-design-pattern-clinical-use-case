@@ -1,0 +1,23 @@
+{
+  "model_id": "mistral.mistral-7b-instruct-v0:2",
+  "data_source": "s3://patient-summary-bucket/patient3_summary.docx",
+  "timestamp": "2025-08-20 01:48:41",
+  "smart_goals": [
+    {
+      "goal_number": 1,
+      "description": "Reduce daily carbohydrate intake to 45% of total caloric intake by the end of next week."
+    },
+    {
+      "goal_number": 2,
+      "description": "Increase daily water intake to 2 liters by the end of this month."
+    },
+    {
+      "goal_number": 3,
+      "description": "Perform 30 minutes of moderate-intensity physical activity, 5 days a week, starting from next Monday."
+    },
+    {
+      "goal_number": 4,
+      "description": "Monitor and maintain HbA1c levels below 7% within the next 3 months."
+    }
+  ]
+}
