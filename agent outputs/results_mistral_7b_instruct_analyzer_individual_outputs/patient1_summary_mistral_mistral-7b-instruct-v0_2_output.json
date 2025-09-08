@@ -1,0 +1,23 @@
+{
+  "model_id": "mistral.mistral-7b-instruct-v0:2",
+  "data_source": "s3://patient-summary-bucket/patient1_summary.docx",
+  "timestamp": "2025-08-20 11:51:12",
+  "smart_goals": [
+    {
+      "goal_number": 1,
+      "description": "Reduce daily carbohydrate intake to 45g per meal for the next 4 weeks"
+    },
+    {
+      "goal_number": 2,
+      "description": "Engage in at least 30 minutes of moderate-intensity physical activity 5 days a week for the next month"
+    },
+    {
+      "goal_number": 3,
+      "description": "Take insulin shots 30 minutes before meals to maintain blood sugar levels within target range"
+    },
+    {
+      "goal_number": 4,
+      "description": "Monitor and record blood sugar levels twice daily and share results with healthcare provider once a week for the next 2 months"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "model_id": "us.anthropic.claude-3-5-sonnet-20241022-v2:0",
+  "data_source": "s3://patient-summary-bucket/patient2_summary.docx",
+  "timestamp": "2025-08-20 09:13:38",
+  "smart_goals": [
+    {
+      "goal_number": 1,
+      "description": "Achieve and maintain target blood sugar level of 7mmol/L through consistent medication adherence and regular monitoring over the next 30 days"
+    },
+    {
+      "goal_number": 2,
+      "description": "Implement a healthy diet plan by incorporating vegetables, fruits, whole grains, and lean proteins (chicken, fish, eggs, tofu) while eliminating processed meats and reducing trans fats, starting immediately and maintaining for the next month"
+    },
+    {
+      "goal_number": 3,
+      "description": "Establish a daily exercise routine using home equipment (dumbbells and chairs) to support weight reduction from current 112Kg, with progress to be evaluated at next monthly check-up"
+    },
+    {
+      "goal_number": 4,
+      "description": "Complete monthly blood glucose and cholesterol level monitoring appointments with Dr. Brown to track health progress and adjust treatment plan as needed"
+    }
+  ]
+}

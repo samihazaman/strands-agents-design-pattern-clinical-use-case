@@ -1,0 +1,23 @@
+{
+  "model_id": "us.anthropic.claude-3-5-sonnet-20241022-v2:0",
+  "data_source": "s3://patient-summary-bucket/patient9_summary.docx",
+  "timestamp": "2025-08-20 09:32:01",
+  "smart_goals": [
+    {
+      "goal_number": 1,
+      "description": "Reduce carbohydrate intake to 45-60 grams per meal and track daily carb consumption using a food diary for the next 30 days"
+    },
+    {
+      "goal_number": 2,
+      "description": "Perform high-intensity interval training (HIIT) exercises 3 times per week, with each session lasting 20-30 minutes, for the next 8 weeks"
+    },
+    {
+      "goal_number": 3,
+      "description": "Include a protein source in each main meal (breakfast, lunch, dinner) and track protein intake using a food log for the next 4 weeks"
+    },
+    {
+      "goal_number": 4,
+      "description": "Exercise regularly by completing at least 150 minutes of moderate-intensity physical activity spread across 5 days per week"
+    }
+  ]
+}

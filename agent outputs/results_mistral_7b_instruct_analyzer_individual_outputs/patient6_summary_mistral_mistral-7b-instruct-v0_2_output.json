@@ -1,0 +1,27 @@
+{
+  "model_id": "mistral.mistral-7b-instruct-v0:2",
+  "data_source": "s3://patient-summary-bucket/patient6_summary.docx",
+  "timestamp": "2025-08-20 11:51:52",
+  "smart_goals": [
+    {
+      "goal_number": 1,
+      "description": "Reduce daily carbohydrate intake to 45% of total daily calories, aiming for 150g or less per day, starting from today"
+    },
+    {
+      "goal_number": 2,
+      "description": "Increase daily water intake to 2500ml (85 cups) by the end of this week"
+    },
+    {
+      "goal_number": 3,
+      "description": "Engage in 30 minutes of moderate-intensity physical activity at least 5 days a week, starting from next Monday"
+    },
+    {
+      "goal_number": 4,
+      "description": "Check and log blood sugar levels before each meal and at bedtime, aiming for levels within the target range (80-130mg/dL before meals and <180mg/dL after meals), starting tomorrow"
+    },
+    {
+      "goal_number": 5,
+      "description": "Maintain a consistent sleep schedule of 7 hours per night, starting tonight"
+    }
+  ]
+}

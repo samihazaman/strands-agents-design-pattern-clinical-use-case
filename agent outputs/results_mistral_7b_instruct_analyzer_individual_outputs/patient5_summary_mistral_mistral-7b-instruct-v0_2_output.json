@@ -1,0 +1,27 @@
+{
+  "model_id": "mistral.mistral-7b-instruct-v0:2",
+  "data_source": "s3://patient-summary-bucket/patient5_summary.docx",
+  "timestamp": "2025-08-20 11:51:25",
+  "smart_goals": [
+    {
+      "goal_number": 1,
+      "description": "Reduce daily carbohydrate intake to 45% of total caloric intake by the end of next month. Monitor and log daily carbohydrate intake using a food diary app."
+    },
+    {
+      "goal_number": 2,
+      "description": "Engage in 30 minutes of moderate-intensity physical activity, such as brisk walking or cycling, at least 5 days per week until the end of the year."
+    },
+    {
+      "goal_number": 3,
+      "description": "Aim to maintain a daily water intake of 2 liters by the end of the next week. Monitor and log daily water intake using a hydration tracking app."
+    },
+    {
+      "goal_number": 4,
+      "description": "Maintain pre-meal blood glucose levels below 150 mg/dL and post-meal levels below 180 mg/dL daily by the end of the following month. Test blood glucose levels regularly using a glucometer."
+    },
+    {
+      "goal_number": 5,
+      "description": "Reduce sedentary behavior time to less than 6 hours per day by the end of the next month. Monitor and log sedentary behavior using a wearable device or smartphone app."
+    }
+  ]
+}

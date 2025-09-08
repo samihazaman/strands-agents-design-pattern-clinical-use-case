@@ -1,0 +1,19 @@
+{
+  "model_id": "amazon.titan-text-premier-v1:0",
+  "data_source": "s3://patient-summary-bucket/patient4_summary.docx",
+  "timestamp": "2025-08-20 10:34:22",
+  "smart_goals": [
+    {
+      "goal_number": "1",
+      "description": "Increase vegetable intake to 2 servings per day by tracking intake in a food diary for the next 2 weeks"
+    },
+    {
+      "goal_number": "2",
+      "description": "Implement a medication reminder system, such as setting alarms or using a pill box, to ensure adherence to medication regimen within the next week"
+    },
+    {
+      "goal_number": "3",
+      "description": "Exercise for at least 30 minutes, 5 days a week for the next month, with the aim of improving cardiovascular health and blood sugar control"
+    }
+  ]
+}

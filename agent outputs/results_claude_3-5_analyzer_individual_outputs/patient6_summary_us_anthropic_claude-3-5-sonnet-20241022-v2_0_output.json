@@ -1,0 +1,23 @@
+{
+  "model_id": "us.anthropic.claude-3-5-sonnet-20241022-v2:0",
+  "data_source": "s3://patient-summary-bucket/patient6_summary.docx",
+  "timestamp": "2025-08-20 09:29:04",
+  "smart_goals": [
+    {
+      "goal_number": 1,
+      "description": "Reduce fasting blood sugar from 195 mg/dL to below 200 mg/dL within one month through medication compliance with Glucovance and dietary modifications"
+    },
+    {
+      "goal_number": 2,
+      "description": "Lower cholesterol levels by reducing trans fat intake and increasing consumption of monounsaturated fats and fiber-rich foods over the next month"
+    },
+    {
+      "goal_number": 3,
+      "description": "Achieve and maintain HbA1c level below 7.0% (currently 6.4%) through consistent blood sugar management over the next three months"
+    },
+    {
+      "goal_number": 4,
+      "description": "Schedule and complete a follow-up appointment with Dr. Gitner in one month to review progress on blood sugar, weight, and cholesterol goals"
+    }
+  ]
+}

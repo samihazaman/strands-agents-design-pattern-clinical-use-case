@@ -1,0 +1,27 @@
+{
+  "model_id": "mistral.mistral-7b-instruct-v0:2",
+  "data_source": "s3://patient-summary-bucket/patient7_summary.docx",
+  "timestamp": "2025-08-20 11:51:55",
+  "smart_goals": [
+    {
+      "goal_number": 1,
+      "description": "Reduce daily carb intake to 45% of total caloric intake by increasing awareness of portion sizes and label reading during meals, starting from next Monday and aiming for a 10% reduction each week."
+    },
+    {
+      "goal_number": 2,
+      "description": "Increase physical activity to 150 minutes per week through activities like brisk walking or cycling, starting this coming Tuesday, aiming for 30 minutes per day, 5 days a week."
+    },
+    {
+      "goal_number": 3,
+      "description": "Monitor and log blood glucose levels twice daily, starting tomorrow, aiming for an average of 150 mg/dL before meals and under 180 mg/dL two hours after meals."
+    },
+    {
+      "goal_number": 4,
+      "description": "Improve medication adherence by setting reminders and placing pills near the coffee maker, starting from Wednesday, aiming for 100% adherence."
+    },
+    {
+      "goal_number": 5,
+      "description": "Increase water intake to 8 glasses per day, starting from Thursday, aiming for a consistent habit by the end of the month."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "model_id": "us.anthropic.claude-3-5-sonnet-20241022-v2:0",
+  "data_source": "s3://patient-summary-bucket/patient5_summary.docx",
+  "timestamp": "2025-08-20 09:16:41",
+  "smart_goals": [
+    {
+      "goal_number": 1,
+      "description": "Reduce HbA1c from 8.1% to below 7% within the next 3 months by monitoring blood glucose 4 times daily (before meals and at bedtime) and logging readings for review at the 4-week follow-up appointment"
+    },
+    {
+      "goal_number": 2,
+      "description": "Achieve weight loss of 20-25 pounds (from 185 lbs to 160-165 lbs) over the next 6 months through balanced nutrition and portion control, limiting carbohydrate intake to 45-60 grams per meal"
+    },
+    {
+      "goal_number": 3,
+      "description": "Complete 150 minutes of moderate-intensity physical activity (brisk walking, swimming, or cycling) per week, spread across at least 3 sessions, starting immediately"
+    },
+    {
+      "goal_number": 4,
+      "description": "Perform strength training exercises 2-3 times per week to improve insulin sensitivity, beginning this week"
+    },
+    {
+      "goal_number": 5,
+      "description": "Lower blood pressure from 135/85 mmHg to below 130/80 mmHg within 3 months through reduced sodium intake and regular physical activity"
+    },
+    {
+      "goal_number": 6,
+      "description": "Reduce LDL cholesterol from 120 mg/dL to below 100 mg/dL within 3 months by increasing intake of omega-3 rich foods (fatty fish and walnuts) to at least 2 servings per week"
+    },
+    {
+      "goal_number": 7,
+      "description": "Schedule and complete annual eye exam and foot check within the next 30 days for preventive care"
+    }
+  ]
+}

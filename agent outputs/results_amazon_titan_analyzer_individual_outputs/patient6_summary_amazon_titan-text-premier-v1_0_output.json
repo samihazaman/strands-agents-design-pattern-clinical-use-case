@@ -1,0 +1,27 @@
+{
+  "model_id": "amazon.titan-text-premier-v1:0",
+  "data_source": "s3://patient-summary-bucket/patient6_summary.docx",
+  "timestamp": "2025-08-20 10:36:49",
+  "smart_goals": [
+    {
+      "goal_number": 1,
+      "description": "By the next visit, maintain a diet of 1,500 calories or less per day to help manage diabetes."
+    },
+    {
+      "goal_number": 2,
+      "description": "In the next week, monitor blood sugar levels four times a day to identify patterns and adjust medication as needed."
+    },
+    {
+      "goal_number": 3,
+      "description": "Increase physical activity to 30 minutes of moderate exercise most days of the week within the next month to improve overall health."
+    },
+    {
+      "goal_number": 4,
+      "description": "By the next visit, learn and apply stress management techniques to reduce stress and improve mental health."
+    },
+    {
+      "goal_number": 5,
+      "description": "By the end of the month, quit smoking to improve overall health and reduce the risk of complications from diabetes."
+    }
+  ]
+}

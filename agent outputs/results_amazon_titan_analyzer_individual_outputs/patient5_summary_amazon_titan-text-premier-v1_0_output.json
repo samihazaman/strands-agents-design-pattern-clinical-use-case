@@ -1,0 +1,27 @@
+{
+  "model_id": "amazon.titan-text-premier-v1:0",
+  "data_source": "s3://patient-summary-bucket/patient5_summary.docx",
+  "timestamp": "2025-08-20 10:35:24",
+  "smart_goals": [
+    {
+      "goal_number": 1,
+      "description": "Limit daily sugar intake to 25 grams"
+    },
+    {
+      "goal_number": 2,
+      "description": "Exercise 30 minutes, 5 days per week"
+    },
+    {
+      "goal_number": 3,
+      "description": "Check blood sugar level 2 times per day"
+    },
+    {
+      "goal_number": 4,
+      "description": "Monitor blood pressure every 3 months"
+    },
+    {
+      "goal_number": 5,
+      "description": "Get 7 hours of sleep every night"
+    }
+  ]
+}

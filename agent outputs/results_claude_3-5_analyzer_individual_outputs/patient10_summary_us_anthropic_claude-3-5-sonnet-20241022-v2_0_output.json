@@ -1,0 +1,23 @@
+{
+  "model_id": "us.anthropic.claude-3-5-sonnet-20241022-v2:0",
+  "data_source": "s3://patient-summary-bucket/patient10_summary.docx",
+  "timestamp": "2025-08-20 09:33:02",
+  "smart_goals": [
+    {
+      "goal_number": 1,
+      "description": "Reduce HbA1c from 7.8% to 7.0% or lower through medication adherence and lifestyle modifications within 3 months"
+    },
+    {
+      "goal_number": 2,
+      "description": "Decrease fasting blood glucose from 176 mg/dL to target level of 126 mg/dL through weekly monitoring and medication compliance within 3 months"
+    },
+    {
+      "goal_number": 3,
+      "description": "Gain 10 kg to reach target weight of 100 kg through a structured exercise program and appropriate nutrition plan within 3 months"
+    },
+    {
+      "goal_number": 4,
+      "description": "Monitor and record blood sugar levels at least once per week for the next 3 months to track progress and adjust treatment plan as needed"
+    }
+  ]
+}

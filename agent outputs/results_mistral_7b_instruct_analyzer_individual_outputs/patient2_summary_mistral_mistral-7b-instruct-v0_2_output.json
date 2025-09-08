@@ -1,0 +1,27 @@
+{
+  "model_id": "mistral.mistral-7b-instruct-v0:2",
+  "data_source": "s3://patient-summary-bucket/patient2_summary.docx",
+  "timestamp": "2025-08-20 11:51:15",
+  "smart_goals": [
+    {
+      "goal_number": 1,
+      "description": "Reduce daily carbohydrate intake to 45% of total caloric intake by increasing vegetable consumption at meals and decreasing sugary snacks. Achieve this within 4 weeks."
+    },
+    {
+      "goal_number": 2,
+      "description": "Engage in at least 150 minutes of moderate-intensity aerobic activity or 75 minutes of vigorous-intensity aerobic activity per week for 3 consecutive weeks."
+    },
+    {
+      "goal_number": 3,
+      "description": "Monitor and record daily pre-meal and post-meal blood glucose levels using a glucometer for the next month to improve awareness and identification of trends."
+    },
+    {
+      "goal_number": 4,
+      "description": "Drink at least 8 cups (64 oz) of water daily to maintain proper hydration levels and support kidney function. Track progress using a water intake log for 3 weeks."
+    },
+    {
+      "goal_number": 5,
+      "description": "Improve sleep quality by establishing a consistent bedtime routine and aiming for 7 hours of sleep per night. Assess progress through self-reporting and sleep logs over the next 2 months."
+    }
+  ]
+}

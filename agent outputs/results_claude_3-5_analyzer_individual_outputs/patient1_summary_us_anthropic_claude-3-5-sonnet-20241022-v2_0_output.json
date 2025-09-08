@@ -1,0 +1,27 @@
+{
+  "model_id": "us.anthropic.claude-3-5-sonnet-20241022-v2:0",
+  "data_source": "s3://patient-summary-bucket/patient1_summary.docx",
+  "timestamp": "2025-08-20 09:12:40",
+  "smart_goals": [
+    {
+      "goal_number": 1,
+      "description": "Reduce blood glucose level from current 250mg/dL to target range of 80-130mg/dL within 3 months by following prescribed insulin regimen and monitoring blood sugar levels at least 4 times daily"
+    },
+    {
+      "goal_number": 2,
+      "description": "Complete 150 minutes of moderate-intensity aerobic exercise per week, spread across at least 3 sessions, and perform strength training exercises 2 times per week for the next 6 months"
+    },
+    {
+      "goal_number": 3,
+      "description": "Achieve and maintain HbA1c level below 7% (currently 8.2%) within 6 months through medication adherence, regular blood sugar monitoring, and lifestyle modifications"
+    },
+    {
+      "goal_number": 4,
+      "description": "Follow a balanced nutrition plan by consuming 5 servings of fruits and vegetables daily, choosing whole grains over refined grains, and eliminating sugary drinks from diet within the next month"
+    },
+    {
+      "goal_number": 5,
+      "description": "Establish a consistent sleep schedule of 7-8 hours per night and implement daily stress management techniques such as meditation or deep breathing exercises within the next 2 weeks"
+    }
+  ]
+}

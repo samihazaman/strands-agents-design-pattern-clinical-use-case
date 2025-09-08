@@ -1,0 +1,27 @@
+{
+  "model_id": "amazon.titan-text-premier-v1:0",
+  "data_source": "s3://patient-summary-bucket/patient7_summary.docx",
+  "timestamp": "2025-08-20 10:37:51",
+  "smart_goals": [
+    {
+      "goal_number": "1",
+      "description": "By the end of the year, I want to lose 10 pounds to reduce my risk of diabetes complications."
+    },
+    {
+      "goal_number": "2",
+      "description": "I will walk for 30 minutes, 5 days a week to improve my cardiovascular health."
+    },
+    {
+      "goal_number": "3",
+      "description": "I will monitor my blood sugar levels daily and keep a record of my readings."
+    },
+    {
+      "goal_number": "4",
+      "description": "I will eat a balanced diet with plenty of fruits, vegetables, and whole grains to manage my blood sugar levels."
+    },
+    {
+      "goal_number": "5",
+      "description": "I will take my diabetes medication as prescribed and schedule regular check-ups with my healthcare provider."
+    }
+  ]
+}

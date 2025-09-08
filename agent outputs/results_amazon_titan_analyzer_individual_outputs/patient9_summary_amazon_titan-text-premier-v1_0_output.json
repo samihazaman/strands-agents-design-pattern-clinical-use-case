@@ -1,0 +1,39 @@
+{
+  "model_id": "amazon.titan-text-premier-v1:0",
+  "data_source": "s3://patient-summary-bucket/patient9_summary.docx",
+  "timestamp": "2025-08-20 10:39:54",
+  "smart_goals": [
+    {
+      "goal_number": 1,
+      "description": "Reduce blood glucose level to 100 mg/dL by the end of the month."
+    },
+    {
+      "goal_number": 2,
+      "description": "Eat a balanced diet for one week to maintain a healthy weight."
+    },
+    {
+      "goal_number": 3,
+      "description": "Exercise for at least 30 minutes a day, five days a week to lower blood sugar levels."
+    },
+    {
+      "goal_number": 4,
+      "description": "Take insulin as prescribed, at the correct time, and in the right amount to manage blood sugar levels."
+    },
+    {
+      "goal_number": 5,
+      "description": "Limit alcohol intake to one drink per day to prevent low blood sugar and reduce the risk of complications."
+    },
+    {
+      "goal_number": 6,
+      "description": "Monitor blood sugar levels regularly and track them in a logbook to identify patterns and adjust treatment as needed."
+    },
+    {
+      "goal_number": 7,
+      "description": "Manage stress through meditation, exercise, or other relaxation techniques to prevent blood sugar fluctuations and improve overall health."
+    },
+    {
+      "goal_number": 8,
+      "description": "Schedule regular appointments with healthcare providers to monitor blood sugar levels, adjust treatment as needed, and discuss any concerns."
+    }
+  ]
+}

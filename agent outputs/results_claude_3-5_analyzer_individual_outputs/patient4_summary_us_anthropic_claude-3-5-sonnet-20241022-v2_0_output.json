@@ -1,0 +1,31 @@
+{
+  "model_id": "us.anthropic.claude-3-5-sonnet-20241022-v2:0",
+  "data_source": "s3://patient-summary-bucket/patient4_summary.docx",
+  "timestamp": "2025-08-20 09:15:42",
+  "smart_goals": [
+    {
+      "goal_number": 1,
+      "description": "Reduce HbA1c from 7.8% to below 7% within 4 weeks by maintaining fasting glucose between 80-130 mg/dL and post-meal readings under 180 mg/dL through daily blood glucose monitoring and logging"
+    },
+    {
+      "goal_number": 2,
+      "description": "Lose 20-25 pounds over the next 3 months by following a balanced nutrition plan with 45-60 grams of carbs per meal, paired with lean protein and healthy fats, targeting a weight of 160-165 lbs"
+    },
+    {
+      "goal_number": 3,
+      "description": "Complete at least 150 minutes of moderate exercise (brisk walking or swimming) per week, plus two sessions of light strength training, tracking activity minutes daily"
+    },
+    {
+      "goal_number": 4,
+      "description": "Reduce LDL cholesterol from 120 mg/dL to below 100 mg/dL within 3 months by consuming omega-3-rich foods (salmon and walnuts) at least 3 times per week"
+    },
+    {
+      "goal_number": 5,
+      "description": "Perform daily foot checks every evening before bed to monitor for cuts or sores, maintaining a log of any concerning findings"
+    },
+    {
+      "goal_number": 6,
+      "description": "Reduce blood pressure from 135/85 to below 130/80 mmHg within 4 weeks through regular exercise and medication compliance"
+    }
+  ]
+}

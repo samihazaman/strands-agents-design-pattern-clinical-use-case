@@ -1,0 +1,19 @@
+{
+  "model_id": "amazon.titan-text-premier-v1:0",
+  "data_source": "s3://patient-summary-bucket/patient2_summary.docx",
+  "timestamp": "2025-08-20 10:32:14",
+  "smart_goals": [
+    {
+      "goal_number": 1,
+      "description": "Exercise for 30 minutes each day."
+    },
+    {
+      "goal_number": 2,
+      "description": "Maintain a healthy diet with balanced nutrients."
+    },
+    {
+      "goal_number": 3,
+      "description": "Keep a food diary to track daily calorie and carbohydrate intake."
+    }
+  ]
+}

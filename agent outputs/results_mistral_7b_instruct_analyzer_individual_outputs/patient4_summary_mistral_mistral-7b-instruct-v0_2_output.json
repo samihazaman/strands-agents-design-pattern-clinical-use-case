@@ -1,0 +1,27 @@
+{
+  "model_id": "mistral.mistral-7b-instruct-v0:2",
+  "data_source": "s3://patient-summary-bucket/patient4_summary.docx",
+  "timestamp": "2025-08-20 11:51:22",
+  "smart_goals": [
+    {
+      "goal_number": 1,
+      "description": "Increase daily water intake to 2000ml by drinking at least 3 bottles of water (500ml each) per day before 6 PM starting from Monday."
+    },
+    {
+      "goal_number": 2,
+      "description": "Reduce daily sugar intake to 50g by avoiding sugary beverages and desserts and replacing them with fresh fruits or vegetables. Monitor and record daily intake using a food journal starting from next Tuesday."
+    },
+    {
+      "goal_number": 3,
+      "description": "Engage in 30 minutes of moderate-intensity physical activity five times per week, including brisk walking, cycling, or swimming. Record and log activities using a fitness tracker or smartphone app beginning next Wednesday."
+    },
+    {
+      "goal_number": 4,
+      "description": "Improve medication adherence by taking prescribed medications as directed every day, keeping a medication log, and setting reminders using a smartphone app starting from Thursday."
+    },
+    {
+      "goal_number": 5,
+      "description": "Monitor and record blood glucose levels before each meal and after dinner using a glucometer, aiming for pre-meal levels below 130mg/dL and post-meal levels below 180mg/dL starting from Friday."
+    }
+  ]
+}

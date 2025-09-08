@@ -1,0 +1,19 @@
+{
+  "model_id": "mistral.mistral-7b-instruct-v0:2",
+  "data_source": "s3://patient-summary-bucket/patient10_summary.docx",
+  "timestamp": "2025-08-20 11:52:05",
+  "smart_goals": [
+    {
+      "goal_number": 1,
+      "description": "Reduce daily carbohydrate intake to 45% of total daily caloric intake by increasing vegetable and lean protein consumption and decreasing processed food and sugar. Aim for this change within the next month."
+    },
+    {
+      "goal_number": 2,
+      "description": "Engage in at least 150 minutes of moderate-intensity or 75 minutes of vigorous-intensity aerobic activity per week, as recommended by the American Diabetes Association. Track progress using a fitness app and aim to reach this goal within the next 2 weeks."
+    },
+    {
+      "goal_number": 3,
+      "description": "Maintain a consistent bedtime routine and aim for at least 7 hours of sleep per night. Monitor sleep patterns using a sleep tracking app and aim to achieve this goal within the next month."
+    }
+  ]
+}

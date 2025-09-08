@@ -1,0 +1,27 @@
+{
+  "model_id": "mistral.mistral-7b-instruct-v0:2",
+  "data_source": "s3://patient-summary-bucket/patient8_summary.docx",
+  "timestamp": "2025-08-20 11:52:00",
+  "smart_goals": [
+    {
+      "goal_number": 1,
+      "description": "Reduce daily carbohydrate intake to 45% of total caloric intake by consuming three balanced meals a day and limiting processed foods and sugary drinks. Aim to maintain this new habit for the next 3 months."
+    },
+    {
+      "goal_number": 2,
+      "description": "Increase physical activity to at least 150 minutes per week, spreading it throughout the week. Choose activities that are enjoyable and can be incorporated into a daily routine, such as brisk walking, cycling, or swimming. Monitor progress weekly."
+    },
+    {
+      "goal_number": 3,
+      "description": "Take prescribed medication (Metformin 1000mg daily) consistently at the same time each day for the next 3 months. Record medication intake in a journal or use a medication reminder app to ensure adherence."
+    },
+    {
+      "goal_number": 4,
+      "description": "Monitor and record daily blood glucose levels before meals and at bedtime using a glucometer. Set a target of maintaining pre-meal glucose levels below 130 mg/dL and bedtime levels below 140 mg/dL. Review and adjust medication and diet plans as needed based on weekly trends."
+    },
+    {
+      "goal_number": 5,
+      "description": "Maintain a food journal to track daily intake of carbohydrates, protein, and healthy fats, with a focus on consuming a balanced diet rich in whole grains, fruits, vegetables, lean proteins, and healthy fats. Set a goal to consume at least 5 servings of fruits and vegetables per day. Review and adjust meal plans weekly based on progress towards goals."
+    }
+  ]
+}
